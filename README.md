@@ -1,5 +1,7 @@
 ### **Airbnb Price Prediction Using Python**  
 
+_**Dataset Link: https://drive.google.com/file/d/1r6-w0sf57FJZNFPle5SCtVwFT5r93wID/view?usp=sharing**___
+
 The **Airbnb Price Prediction** project aims to develop a machine learning model to predict the pricing of Airbnb listings based on various features such as location, property type, amenities, and customer reviews. By analyzing the factors influencing rental prices, this project provides insights that can help hosts optimize their pricing strategies and travelers make informed decisions.  
 
 ---
